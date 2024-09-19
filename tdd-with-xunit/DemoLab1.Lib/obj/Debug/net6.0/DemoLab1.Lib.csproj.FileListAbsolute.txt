@@ -1,0 +1,12 @@
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\DemoLab1.Lib.csproj.AssemblyReference.cache
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\DemoLab1.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\DemoLab1.Lib.AssemblyInfoInputs.cache
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\DemoLab1.Lib.AssemblyInfo.cs
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\DemoLab1.Lib.csproj.CoreCompileInputs.cache
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\bin\Debug\net6.0\DemoLab1.Lib.deps.json
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\bin\Debug\net6.0\DemoLab1.Lib.dll
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\bin\Debug\net6.0\DemoLab1.Lib.pdb
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\DemoLab1.Lib.dll
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\refint\DemoLab1.Lib.dll
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\DemoLab1.Lib.pdb
+D:\Semester5\SWT301\LAB_1_DemoPayRoll\tdd-with-xunit\DemoLab1.Lib\obj\Debug\net6.0\ref\DemoLab1.Lib.dll
